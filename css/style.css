@@ -26,3 +26,9 @@
     justify-content: flex-end;
     align-items: center;
   }
+
+  .b-header {
+    background-color: #4a4a4a;
+    border-radius: 5px;
+    
+  }
